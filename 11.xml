@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Objects>
+    <Object>
+        <Word>FioStud.Tsimashenka</Word>
+        <Word>FioParent.Tsimashenka</Word>
+        <Word>AddrParent.Kolasa15-50</Word>
+        <Word>StatusParent.Manager</Word>
+        <Number>Stazh(yrs).5</Number>
+    </Object>
+    <Object>
+        <Word>FioStud.Markelav</Word>
+        <Word>FioParent.Tsimashenka</Word>
+        <Word>AddrParent.Kolasa15-50</Word>
+        <Word>StatusParent.Manager</Word>
+        <Number>Stazh(yrs).5</Number>
+    </Object>
+    <Object>
+        <Word>FioStud.Zhizhin</Word>
+        <Word>FioParent.Tsimashenka</Word>
+        <Word>AddrParent.Kolasa15-50</Word>
+        <Word>StatusParent.Manager</Word>
+        <Number>Stazh(yrs).5</Number>
+    </Object>
+    <Object>
+        <Word>FioStud.Markelav</Word>
+        <Word>FioParent.Tsimashenka</Word>
+        <Word>AddrParent.Kolasa15-50</Word>
+        <Word>StatusParent.Manager</Word>
+        <Number>Stazh(yrs).5</Number>
+    </Object>
+    <Object>
+        <Word>FioStud.Zhizhin</Word>
+        <Word>FioParent.Tsimashenka</Word>
+        <Word>AddrParent.Kolasa15-50</Word>
+        <Word>StatusParent.Manager</Word>
+        <Number>Stazh(yrs).5</Number>
+    </Object>
+    <Object>
+        <Word>FioStud.Kinde</Word>
+        <Word>FioParent.Marava</Word>
+        <Word>AddrParent.SB12</Word>
+        <Word>StatusParent.Chief</Word>
+        <Number>Stazh(yrs).6</Number>
+    </Object>
+</Objects>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listStudent>
+    <student>Shustermanva
+        <surname>Shusterman</surname>
+        <name>v</name>
+        <patronymic>a</patronymic>
+        <group>621701</group>
+        <missings>
+            <missings_disease>3</missings_disease>
+            <missings_due_other_reason>4</missings_due_other_reason>
+            <Missings_without_reason>2</Missings_without_reason>
+        </missings>
+    </student>
+    <student>Shustermanva
+        <surname>Shusterman</surname>
+        <name>v</name>
+        <patronymic>a</patronymic>
+        <group>621701</group>
+        <missings>
+            <missings_disease>3</missings_disease>
+            <missings_due_other_reason>4</missings_due_other_reason>
+            <Missings_without_reason>2</Missings_without_reason>
+        </missings>
+    </student>
+</listStudent>
